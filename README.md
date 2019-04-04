@@ -8,4 +8,4 @@ The code has been used in the paper "Parallel Continuous Preference Queries over
 The code requires FastFlow 2.1 (http://calvados.di.unipi.it/).
 
 # Contributors
-P<sup>3</sup>ARSEC has been developed by [Gabriele Mencagli](mailto:mencagli@di.unipi.it).
+BT-PPQ has been developed by [Gabriele Mencagli](mailto:mencagli@di.unipi.it).
