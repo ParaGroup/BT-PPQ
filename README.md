@@ -6,3 +6,6 @@ This framework supports the parallel execution of preference queries (e.g., skyl
 The code has been used in the paper "Parallel Continuous Preference Queries over Out-of-Order and Bursty Data Streams". IEEE Transactions on Parallel and Distributed Systems, 28(9), 2608-2624, 2017, IEEE.
 
 The code requires FastFlow 2.1 (http://calvados.di.unipi.it/).
+
+# Contributors
+P<sup>3</sup>ARSEC has been developed by [Gabriele Mencagli](mailto:mencagli@di.unipi.it).
