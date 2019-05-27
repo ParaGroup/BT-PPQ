@@ -1,5 +1,5 @@
 # BT-PPQ
-A Burst-tolerant System to execute Parallel Preference Queries on Multicore Architectures
+A Burst-tolerant System to execute Parallel Preference Queries on Multi-Core Architectures
 
 This framework supports the parallel execution of preference queries (e.g., skyline, top-k) in multicore systems using a sliding-window approach on data streams. The framework deals with bursty and time-varying input rates using a clever distribution strategies of input items to parallel entities within the system.
 
