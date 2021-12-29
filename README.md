@@ -5,7 +5,7 @@ This framework supports the parallel execution of preference queries (e.g., skyl
 
 The code requires FastFlow 2.1 (http://calvados.di.unipi.it/).
 
-# How to Cite
+## How to Cite
 If our work is useful for your research, please cite the following paper:
 ```
 @article{7873332,
@@ -20,5 +20,5 @@ If our work is useful for your research, please cite the following paper:
 }
 ```
 
-# Contributors
+## Contributors
 BT-PPQ has been developed by [Gabriele Mencagli](mailto:gabriele.mencagli@unipi.it).
