@@ -21,4 +21,4 @@ If our work is useful for your research, please cite the following paper:
 ```
 
 # Contributors
-BT-PPQ has been developed by [Gabriele Mencagli](mailto:gabriele.mencagli@unipi.it
+BT-PPQ has been developed by [Gabriele Mencagli](mailto:gabriele.mencagli@unipi.it)
