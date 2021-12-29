@@ -8,7 +8,7 @@ The code requires FastFlow 2.1 (http://calvados.di.unipi.it/).
 # How to Cite
 If our work is useful for your research, please cite the following paper:
 ```
-@ARTICLE{7873332,
+@article{7873332,
   author={Mencagli, Gabriele and Torquati, Massimo and Danelutto, Marco and De Matteis, Tiziano},
   journal={IEEE Transactions on Parallel and Distributed Systems},
   title={Parallel Continuous Preference Queries over Out-of-Order and Bursty Data Streams},
